@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="database" Class="DataClassesDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\database.mdf;Integrated Security=True;Connect Timeout=30" SettingsObjectName="ProjectWPF.Properties.Settings" SettingsPropertyName="databaseConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.MusicGroup" Member="MusicGroups">
+    <Type Name="MusicGroup">
+      <Column Name="MusicGroupID" Type="System.Guid" DbType="UniqueIdentifier NOT NULL" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="MusicGroupName" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="MusicGroupType" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="MusicGroupCreatedDate" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="MusicGroupEndDate" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="MusicGroupNationality" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="MusicGroupPhoto" Type="System.Data.Linq.Binary" DbType="Image" CanBeNull="true" UpdateCheck="Never" />
+      <Association Name="MusicGroup_MusicGroup_Musician" Member="MusicGroup_Musicians" ThisKey="MusicGroupID" OtherKey="MusicGroupID" Type="MusicGroup_Musician" />
+      <Association Name="MusicGroup_MusicGroup_Song" Member="MusicGroup_Songs" ThisKey="MusicGroupID" OtherKey="MusicGroupID" Type="MusicGroup_Song" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Song" Member="Songs">
+    <Type Name="Song">
+      <Column Name="SongID" Type="System.Guid" DbType="UniqueIdentifier NOT NULL" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="SongName" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="SongReleased" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="SongGenre" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="SongLength" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="SongWriter" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="Song_MusicGroup_Song" Member="MusicGroup_Songs" ThisKey="SongID" OtherKey="SongID" Type="MusicGroup_Song" />
+    </Type>
+  </Table>
+  <Table Name="dbo.MusicGroup_Musician" Member="MusicGroup_Musicians">
+    <Type Name="MusicGroup_Musician">
+      <Column Name="MusicGroupID" Type="System.Guid" DbType="UniqueIdentifier NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="MusicianID" Type="System.Guid" DbType="UniqueIdentifier NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Association Name="MusicGroup_MusicGroup_Musician" Member="MusicGroup" ThisKey="MusicGroupID" OtherKey="MusicGroupID" Type="MusicGroup" IsForeignKey="true" />
+      <Association Name="Musician_MusicGroup_Musician" Member="Musician" ThisKey="MusicianID" OtherKey="MusicianID" Type="Musician" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.MusicGroup_Song" Member="MusicGroup_Songs">
+    <Type Name="MusicGroup_Song">
+      <Column Name="MusicGroupID" Type="System.Guid" DbType="UniqueIdentifier NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="SongID" Type="System.Guid" DbType="UniqueIdentifier NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Association Name="MusicGroup_MusicGroup_Song" Member="MusicGroup" ThisKey="MusicGroupID" OtherKey="MusicGroupID" Type="MusicGroup" IsForeignKey="true" />
+      <Association Name="Song_MusicGroup_Song" Member="Song" ThisKey="SongID" OtherKey="SongID" Type="Song" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Musician" Member="Musicians">
+    <Type Name="Musician">
+      <Column Name="MusicianID" Type="System.Guid" DbType="UniqueIdentifier NOT NULL" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="MusicianName" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="MusicianSurname" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="MusicianDateBirth" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="MusicianInstrument" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="MusicianNationality" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="MusicianSex" Type="System.String" DbType="Char(10)" CanBeNull="true" />
+      <Association Name="Musician_MusicGroup_Musician" Member="MusicGroup_Musicians" ThisKey="MusicianID" OtherKey="MusicianID" Type="MusicGroup_Musician" />
+    </Type>
+  </Table>
+</Database>

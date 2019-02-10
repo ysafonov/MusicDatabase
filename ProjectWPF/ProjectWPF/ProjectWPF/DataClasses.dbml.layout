@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 17.75, 8.5" name="DataClasses">
+  <DataContextMoniker Name="/DataClassesDataContext" />
+  <nestedChildShapes>
+    <classShape Id="5dfb0cbc-a1e1-4f96-9e27-8383f2c8f310" absoluteBounds="12.5, 0.5, 2.25, 2.155499674479167">
+      <DataClassMoniker Name="/DataClassesDataContext/MusicGroup" />
+      <nestedChildShapes>
+        <elementListCompartment Id="533d540b-51a0-418b-bc5b-b31ac29f2fca" absoluteBounds="12.515, 0.96, 2.2199999999999998, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="cab6d1cc-a50c-4d97-9df6-85a27eae418d" absoluteBounds="15.5, 3.375, 2, 1.9631982421875005">
+      <DataClassMoniker Name="/DataClassesDataContext/Song" />
+      <nestedChildShapes>
+        <elementListCompartment Id="06145a16-c07e-4051-a3ea-70af6475401a" absoluteBounds="15.515, 3.835, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9c8fe40a-c3f3-481d-aa8c-7d54d2d9a9f3" absoluteBounds="9.75, 1.5, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/DataClassesDataContext/MusicGroup_Musician" />
+      <nestedChildShapes>
+        <elementListCompartment Id="16bcf068-e241-45f7-8ad0-a5039a47b438" absoluteBounds="9.765, 1.96, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5de6fbd8-0e5c-4232-aa0b-8d0ee265db78" absoluteBounds="15.375, 1.5, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/DataClassesDataContext/MusicGroup_Song" />
+      <nestedChildShapes>
+        <elementListCompartment Id="305f583d-4df1-470a-81ce-3e3210b0ce30" absoluteBounds="15.39, 1.96, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="694b5d3a-732a-47f1-bfdb-33c4a58af132" absoluteBounds="9.625, 3.375, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/DataClassesDataContext/Musician" />
+      <nestedChildShapes>
+        <elementListCompartment Id="52af1f93-c924-4a5d-ad9d-d1c3a57ca5d4" absoluteBounds="9.64, 3.8350000000000009, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(12.5 : 2.07774983723958); (11.75 : 2.07774983723958)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClassesDataContext/MusicGroup/MusicGroup_MusicGroup_Musician" />
+      <nodes>
+        <classShapeMoniker Id="5dfb0cbc-a1e1-4f96-9e27-8383f2c8f310" />
+        <classShapeMoniker Id="9c8fe40a-c3f3-481d-aa8c-7d54d2d9a9f3" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(14.75 : 2.07774983723958); (15.375 : 2.07774983723958)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClassesDataContext/MusicGroup/MusicGroup_MusicGroup_Song" />
+      <nodes>
+        <classShapeMoniker Id="5dfb0cbc-a1e1-4f96-9e27-8383f2c8f310" />
+        <classShapeMoniker Id="5de6fbd8-0e5c-4232-aa0b-8d0ee265db78" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(16.4375 : 3.375); (16.4375 : 2.69399251302083)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClassesDataContext/Song/Song_MusicGroup_Song" />
+      <nodes>
+        <classShapeMoniker Id="cab6d1cc-a50c-4d97-9df6-85a27eae418d" />
+        <classShapeMoniker Id="5de6fbd8-0e5c-4232-aa0b-8d0ee265db78" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(10.6875 : 3.375); (10.6875 : 2.69399251302083)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClassesDataContext/Musician/Musician_MusicGroup_Musician" />
+      <nodes>
+        <classShapeMoniker Id="694b5d3a-732a-47f1-bfdb-33c4a58af132" />
+        <classShapeMoniker Id="9c8fe40a-c3f3-481d-aa8c-7d54d2d9a9f3" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

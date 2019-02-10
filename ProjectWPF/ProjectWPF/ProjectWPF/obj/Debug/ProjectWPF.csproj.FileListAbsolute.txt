@@ -1,0 +1,157 @@
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\Projects\FinalProject\ProjectWPF\ProjectWPF\bin\Debug\database.mdf
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\Projects\FinalProject\ProjectWPF\ProjectWPF\bin\Debug\database_log.ldf
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\Projects\FinalProject\ProjectWPF\ProjectWPF\bin\Debug\ProjectWPF.exe.config
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\Projects\FinalProject\ProjectWPF\ProjectWPF\bin\Debug\ProjectWPF.exe
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\Projects\FinalProject\ProjectWPF\ProjectWPF\bin\Debug\ProjectWPF.pdb
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\Projects\FinalProject\ProjectWPF\ProjectWPF\obj\Debug\MainWindow.g.cs
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\Projects\FinalProject\ProjectWPF\ProjectWPF\obj\Debug\App.g.cs
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\Projects\FinalProject\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF_Content.g.cs
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\Projects\FinalProject\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF_MarkupCompile.cache
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\Projects\FinalProject\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF_MarkupCompile.lref
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\Projects\FinalProject\ProjectWPF\ProjectWPF\obj\Debug\MainWindow.baml
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\Projects\FinalProject\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.g.resources
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\Projects\FinalProject\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.Properties.Resources.resources
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\Projects\FinalProject\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.csproj.GenerateResource.Cache
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\Projects\FinalProject\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.csproj.CoreCompileInputs.cache
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\Projects\FinalProject\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.exe
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\Projects\FinalProject\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.pdb
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\Projects\FinalProject\ProjectWPF\ProjectWPF\obj\Debug\AddWindow.g.cs
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\Projects\FinalProject\ProjectWPF\ProjectWPF\obj\Debug\DetailWindow.g.cs
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\Projects\FinalProject\ProjectWPF\ProjectWPF\bin\Debug\Xceed.Wpf.AvalonDock.dll
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\Projects\FinalProject\ProjectWPF\ProjectWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\Projects\FinalProject\ProjectWPF\ProjectWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\Projects\FinalProject\ProjectWPF\ProjectWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\Projects\FinalProject\ProjectWPF\ProjectWPF\bin\Debug\Xceed.Wpf.DataGrid.dll
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\Projects\FinalProject\ProjectWPF\ProjectWPF\bin\Debug\Xceed.Wpf.Toolkit.dll
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\Projects\FinalProject\ProjectWPF\ProjectWPF\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\Projects\FinalProject\ProjectWPF\ProjectWPF\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\Projects\FinalProject\ProjectWPF\ProjectWPF\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\Projects\FinalProject\ProjectWPF\ProjectWPF\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\Projects\FinalProject\ProjectWPF\ProjectWPF\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\Projects\FinalProject\ProjectWPF\ProjectWPF\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\Projects\FinalProject\ProjectWPF\ProjectWPF\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\Projects\FinalProject\ProjectWPF\ProjectWPF\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\Projects\FinalProject\ProjectWPF\ProjectWPF\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\Projects\FinalProject\ProjectWPF\ProjectWPF\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\Projects\FinalProject\ProjectWPF\ProjectWPF\obj\Debug\App.baml
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\Projects\FinalProject\ProjectWPF\ProjectWPF\obj\Debug\AddWindow.baml
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\Projects\FinalProject\ProjectWPF\ProjectWPF\obj\Debug\DetailWindow.baml
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\Projects\FinalProject\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.csprojResolveAssemblyReference.cache
+D:\Downloads\ProjectWPFFinal\ProjectWPF\ProjectWPF\obj\Debug\DetailWindow.g.cs
+D:\Downloads\ProjectWPFFinal\ProjectWPF\ProjectWPF\obj\Debug\MainWindow.g.cs
+D:\Downloads\ProjectWPFFinal\ProjectWPF\ProjectWPF\obj\Debug\App.g.cs
+D:\Downloads\ProjectWPFFinal\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF_Content.g.cs
+D:\Downloads\ProjectWPFFinal\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF_MarkupCompile.cache
+D:\Downloads\ProjectWPFFinal\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF_MarkupCompile.lref
+D:\Downloads\ProjectWPFFinal\ProjectWPF\ProjectWPF\bin\Debug\database.mdf
+D:\Downloads\ProjectWPFFinal\ProjectWPF\ProjectWPF\bin\Debug\database_log.ldf
+D:\Downloads\ProjectWPFFinal\ProjectWPF\ProjectWPF\bin\Debug\ProjectWPF.exe.config
+D:\Downloads\ProjectWPFFinal\ProjectWPF\ProjectWPF\bin\Debug\ProjectWPF.exe
+D:\Downloads\ProjectWPFFinal\ProjectWPF\ProjectWPF\bin\Debug\ProjectWPF.pdb
+D:\Downloads\ProjectWPFFinal\ProjectWPF\ProjectWPF\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Downloads\ProjectWPFFinal\ProjectWPF\ProjectWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Downloads\ProjectWPFFinal\ProjectWPF\ProjectWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Downloads\ProjectWPFFinal\ProjectWPF\ProjectWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Downloads\ProjectWPFFinal\ProjectWPF\ProjectWPF\bin\Debug\Xceed.Wpf.DataGrid.dll
+D:\Downloads\ProjectWPFFinal\ProjectWPF\ProjectWPF\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Downloads\ProjectWPFFinal\ProjectWPF\ProjectWPF\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\ProjectWPFFinal\ProjectWPF\ProjectWPF\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\ProjectWPFFinal\ProjectWPF\ProjectWPF\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\ProjectWPFFinal\ProjectWPF\ProjectWPF\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\ProjectWPFFinal\ProjectWPF\ProjectWPF\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\ProjectWPFFinal\ProjectWPF\ProjectWPF\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\ProjectWPFFinal\ProjectWPF\ProjectWPF\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\ProjectWPFFinal\ProjectWPF\ProjectWPF\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\ProjectWPFFinal\ProjectWPF\ProjectWPF\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\ProjectWPFFinal\ProjectWPF\ProjectWPF\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\ProjectWPFFinal\ProjectWPF\ProjectWPF\obj\Debug\AddWindow.g.cs
+D:\Downloads\ProjectWPFFinal\ProjectWPF\ProjectWPF\obj\Debug\App.baml
+D:\Downloads\ProjectWPFFinal\ProjectWPF\ProjectWPF\obj\Debug\AddWindow.baml
+D:\Downloads\ProjectWPFFinal\ProjectWPF\ProjectWPF\obj\Debug\DetailWindow.baml
+D:\Downloads\ProjectWPFFinal\ProjectWPF\ProjectWPF\obj\Debug\MainWindow.baml
+D:\Downloads\ProjectWPFFinal\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.g.resources
+D:\Downloads\ProjectWPFFinal\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.Properties.Resources.resources
+D:\Downloads\ProjectWPFFinal\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.csproj.GenerateResource.cache
+D:\Downloads\ProjectWPFFinal\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.csproj.CoreCompileInputs.cache
+D:\Downloads\ProjectWPFFinal\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.csproj.CopyComplete
+D:\Downloads\ProjectWPFFinal\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.exe
+D:\Downloads\ProjectWPFFinal\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.pdb
+D:\Downloads\ProjectWPFFinal\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.csprojResolveAssemblyReference.cache
+C:\Users\Yehor Safonov\Desktop\ProjectWPF\ProjectWPF\bin\Debug\database.mdf
+C:\Users\Yehor Safonov\Desktop\ProjectWPF\ProjectWPF\bin\Debug\database_log.ldf
+C:\Users\Yehor Safonov\Desktop\ProjectWPF\ProjectWPF\bin\Debug\ProjectWPF.exe.config
+C:\Users\Yehor Safonov\Desktop\ProjectWPF\ProjectWPF\bin\Debug\ProjectWPF.exe
+C:\Users\Yehor Safonov\Desktop\ProjectWPF\ProjectWPF\bin\Debug\ProjectWPF.pdb
+C:\Users\Yehor Safonov\Desktop\ProjectWPF\ProjectWPF\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Yehor Safonov\Desktop\ProjectWPF\ProjectWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Yehor Safonov\Desktop\ProjectWPF\ProjectWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Yehor Safonov\Desktop\ProjectWPF\ProjectWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Yehor Safonov\Desktop\ProjectWPF\ProjectWPF\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Yehor Safonov\Desktop\ProjectWPF\ProjectWPF\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Yehor Safonov\Desktop\ProjectWPF\ProjectWPF\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Yehor Safonov\Desktop\ProjectWPF\ProjectWPF\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Yehor Safonov\Desktop\ProjectWPF\ProjectWPF\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Yehor Safonov\Desktop\ProjectWPF\ProjectWPF\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Yehor Safonov\Desktop\ProjectWPF\ProjectWPF\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Yehor Safonov\Desktop\ProjectWPF\ProjectWPF\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Yehor Safonov\Desktop\ProjectWPF\ProjectWPF\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Yehor Safonov\Desktop\ProjectWPF\ProjectWPF\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Yehor Safonov\Desktop\ProjectWPF\ProjectWPF\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Yehor Safonov\Desktop\ProjectWPF\ProjectWPF\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Yehor Safonov\Desktop\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.csprojResolveAssemblyReference.cache
+C:\Users\Yehor Safonov\Desktop\ProjectWPF\ProjectWPF\obj\Debug\AddWindow.g.cs
+C:\Users\Yehor Safonov\Desktop\ProjectWPF\ProjectWPF\obj\Debug\DetailWindow.g.cs
+C:\Users\Yehor Safonov\Desktop\ProjectWPF\ProjectWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Yehor Safonov\Desktop\ProjectWPF\ProjectWPF\obj\Debug\App.g.cs
+C:\Users\Yehor Safonov\Desktop\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF_Content.g.cs
+C:\Users\Yehor Safonov\Desktop\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF_MarkupCompile.cache
+C:\Users\Yehor Safonov\Desktop\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF_MarkupCompile.lref
+C:\Users\Yehor Safonov\Desktop\ProjectWPF\ProjectWPF\obj\Debug\App.baml
+C:\Users\Yehor Safonov\Desktop\ProjectWPF\ProjectWPF\obj\Debug\AddWindow.baml
+C:\Users\Yehor Safonov\Desktop\ProjectWPF\ProjectWPF\obj\Debug\DetailWindow.baml
+C:\Users\Yehor Safonov\Desktop\ProjectWPF\ProjectWPF\obj\Debug\MainWindow.baml
+C:\Users\Yehor Safonov\Desktop\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.g.resources
+C:\Users\Yehor Safonov\Desktop\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.Properties.Resources.resources
+C:\Users\Yehor Safonov\Desktop\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.csproj.GenerateResource.Cache
+C:\Users\Yehor Safonov\Desktop\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.csproj.CoreCompileInputs.cache
+C:\Users\Yehor Safonov\Desktop\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.exe
+C:\Users\Yehor Safonov\Desktop\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.pdb
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\ProjectWPF\ProjectWPF\bin\Debug\database.mdf
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\ProjectWPF\ProjectWPF\bin\Debug\database_log.ldf
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\ProjectWPF\ProjectWPF\bin\Debug\ProjectWPF.exe.config
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\ProjectWPF\ProjectWPF\bin\Debug\ProjectWPF.exe
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\ProjectWPF\ProjectWPF\bin\Debug\ProjectWPF.pdb
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\ProjectWPF\ProjectWPF\bin\Debug\Xceed.Wpf.AvalonDock.dll
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\ProjectWPF\ProjectWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\ProjectWPF\ProjectWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\ProjectWPF\ProjectWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\ProjectWPF\ProjectWPF\bin\Debug\Xceed.Wpf.DataGrid.dll
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\ProjectWPF\ProjectWPF\bin\Debug\Xceed.Wpf.Toolkit.dll
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\ProjectWPF\ProjectWPF\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\ProjectWPF\ProjectWPF\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\ProjectWPF\ProjectWPF\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\ProjectWPF\ProjectWPF\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\ProjectWPF\ProjectWPF\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\ProjectWPF\ProjectWPF\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\ProjectWPF\ProjectWPF\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\ProjectWPF\ProjectWPF\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\ProjectWPF\ProjectWPF\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\ProjectWPF\ProjectWPF\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\ProjectWPF\ProjectWPF\obj\Debug\AddWindow.g.cs
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\ProjectWPF\ProjectWPF\obj\Debug\DetailWindow.g.cs
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\ProjectWPF\ProjectWPF\obj\Debug\MainWindow.g.cs
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\ProjectWPF\ProjectWPF\obj\Debug\App.g.cs
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF_Content.g.cs
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF_MarkupCompile.cache
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF_MarkupCompile.lref
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\ProjectWPF\ProjectWPF\obj\Debug\App.baml
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\ProjectWPF\ProjectWPF\obj\Debug\AddWindow.baml
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\ProjectWPF\ProjectWPF\obj\Debug\DetailWindow.baml
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\ProjectWPF\ProjectWPF\obj\Debug\MainWindow.baml
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.g.resources
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.Properties.Resources.resources
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.csproj.GenerateResource.Cache
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.csproj.CoreCompileInputs.cache
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.exe
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.pdb
+E:\Учеба\Studium FEKT Informační bezpečnost\3. ročník IBP\2 Objektově orientované programování (BOOP)\ProjectWPF\ProjectWPF\obj\Debug\ProjectWPF.csprojResolveAssemblyReference.cache
